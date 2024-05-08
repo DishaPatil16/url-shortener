@@ -1,0 +1,9 @@
+for having a ui as a response
+we can render html data directly as response
+this harms code quality
+can use ejs , handlebars , bug
+ejs templating engine helps to build html files and render them on server side
+
+ejs files are html files
+kkeps server code clean 
+sepearate files
